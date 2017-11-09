@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6212" started-at="2017-10-31T22:19:14Z" finished-at="2017-10-31T22:19:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6212" started-at="2017-10-31T22:19:14Z" finished-at="2017-10-31T22:19:20Z">
+      <class name="MercuryScripts.LoginMercuryPage">
+        <test-method status="PASS" signature="validateMercuryLoginPage()[pri:0, instance:MercuryScripts.LoginMercuryPage@66d2e7d9]" name="validateMercuryLoginPage" duration-ms="6165" started-at="2017-10-31T16:19:14Z" finished-at="2017-10-31T16:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMercuryLoginPage -->
+      </class> <!-- MercuryScripts.LoginMercuryPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
